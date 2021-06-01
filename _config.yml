@@ -1,7 +1,8 @@
-# remote_theme: daattali/beautiful-jekyll
+title: My Brain Dump
+author: Dart Dart
+
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   
-
-theme: jekyll-theme-cayman
